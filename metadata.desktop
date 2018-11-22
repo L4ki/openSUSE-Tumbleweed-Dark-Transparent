@@ -1,0 +1,20 @@
+[Desktop Entry]
+Name=openSUSE Tumbleweed Dark-Transparent
+
+X-KDE-PluginInfo-Author=l4k1
+X-KDE-PluginInfo-Email=l4k1987@gmail.com
+X-KDE-PluginInfo-Name=Dark-Transparent
+X-KDE-PluginInfo-Version=
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
+
+[ContrastEffect]
+enabled=false
+contrast=0.2
+intensity=0.4
+saturation=1.7
+
+#Based on Arc-KDE
