@@ -35,11 +35,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1280"
-     inkscape:window-height="979"
+     inkscape:window-height="982"
      id="namedview104"
      showgrid="false"
-     inkscape:zoom="6.0234375"
-     inkscape:cx="38.353262"
+     inkscape:zoom="2"
+     inkscape:cx="28.853763"
      inkscape:cy="171.59305"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -165,13 +165,6 @@
          id="path4120"
          d="m 304.00003,343.99992 v 7 h 7 v -2 c 0,-2.77 -2.23,-5 -5,-5 z"
          inkscape:connector-curvature="0" />
-      <rect
-         style="opacity:0.99999999;fill:#1e2127;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5"
-         id="rect4438"
-         width="4"
-         height="4"
-         x="308"
-         y="343" />
     </g>
     <g
        id="mask-top"
@@ -204,13 +197,6 @@
          id="path4458"
          d="m 304.00003,343.99992 v 7 h 7 v -2 c 0,-2.77 -2.23,-5 -5,-5 z"
          inkscape:connector-curvature="0" />
-      <rect
-         style="opacity:0.99999999;fill:#1e2127;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5"
-         id="rect4460"
-         width="4"
-         height="4"
-         x="308"
-         y="343" />
     </g>
     <g
        id="mask-bottom"
@@ -243,13 +229,6 @@
          id="path4472"
          d="m 304.00003,343.99992 v 7 h 7 v -2 c 0,-2.77 -2.23,-5 -5,-5 z"
          inkscape:connector-curvature="0" />
-      <rect
-         style="opacity:1;fill:#1e2127;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5"
-         id="rect4474"
-         width="4"
-         height="4"
-         x="308"
-         y="343" />
     </g>
     <g
        id="mask-right"
@@ -304,13 +283,6 @@
          id="path4494"
          d="m 304.00003,343.99992 v 7 h 7 v -2 c 0,-2.77 -2.23,-5 -5,-5 z"
          inkscape:connector-curvature="0" />
-      <rect
-         style="opacity:0.99999999;fill:#1e2127;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5"
-         id="rect4496"
-         width="4"
-         height="4"
-         x="308"
-         y="343" />
     </g>
     <rect
        style="opacity:0.5;fill:#008080;fill-opacity:0.5;stroke:none"
